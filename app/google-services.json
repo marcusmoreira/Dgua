@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047808393355",
+    "firebase_url": "https://dgua-d1d48.firebaseio.com",
+    "project_id": "dgua-d1d48",
+    "storage_bucket": "dgua-d1d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047808393355:android:456f4a68705b4d625dd48e",
+        "android_client_info": {
+          "package_name": "br.marcusmoreira.dgua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047808393355-u6582toi59kvdkbk6angr50m81k8avtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.marcusmoreira.dgua",
+            "certificate_hash": "1afb93940e769d743d3d1b851d465b0f4419d550"
+          }
+        },
+        {
+          "client_id": "1047808393355-12lgpam8dtgu1jmmtgp2ujjb2jedf2vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZbKokQDLNgmmEn3R6uX5XRRlOu6OGL1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047808393355-12lgpam8dtgu1jmmtgp2ujjb2jedf2vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
