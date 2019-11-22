@@ -1,6 +1,5 @@
 package br.marcusmoreira.dgua;
 
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
